@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">executionservice</string>
+    <string name="textview">TextView</string>
+    <string name="seconds">Seconds elapsed: %d </string>
+</resources>
